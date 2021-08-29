@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+ - If I am not spending time with my family well then...
+ - I am working hard to stay ahead of everything I need to know.
 
 <!--
 **techsolx/techsolx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
